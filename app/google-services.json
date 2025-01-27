@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "676121313875",
+    "project_id": "sportzlink-2b0fa",
+    "storage_bucket": "sportzlink-2b0fa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:676121313875:android:45dc558dc301048c313ca6",
+        "android_client_info": {
+          "package_name": "com.example.sportzlink"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBaQzc8Z-KXwINmGCUGh7CEKufXspF8KSQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
